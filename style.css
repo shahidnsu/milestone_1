@@ -1,4 +1,6 @@
-
+body {
+    margin: 0 ;
+}
 .nav-bar  {
     width:  45%;
     height: 10%;
@@ -99,10 +101,13 @@
 }
 
 .work-area {
-    height: 500px;
+    height: 700px;
     width: 100%;
     margin-top: 5%;
     float: left;
+    background-image: linear-gradient(#D7E1EC,#FFFFFF);
+   
+    
 }
 .work-area h3 {
     text-align: center;
@@ -118,6 +123,7 @@
     height: 50%;
     margin-left: 10%;
     float: left;
+    box-shadow: 10px 20px 30px;
 }
 .project-deatils img {
     width: 100%;
