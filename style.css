@@ -68,8 +68,7 @@
 
 .about-section {
     height: 500px;
-    width: 100%;
-    
+    width: 100%;  
     margin-top: 7%;
 }
 .about-section-image {
@@ -99,3 +98,32 @@
     line-height: 25px;
 }
 
+.work-area {
+    height: 500px;
+    width: 100%;
+    margin-top: 5%;
+    float: left;
+}
+.work-area h3 {
+    text-align: center;
+    color: #363958;
+    font-family:'Bebas Neue', cursive;
+    font-size: 50px;
+}
+.work-area span {
+    color: #FF8367;
+}
+.project-deatils  {
+    width: 20%;
+    height: 50%;
+    margin-left: 10%;
+    float: left;
+}
+.project-deatils img {
+    width: 100%;
+    height: 100%;
+}
+.project-deatils h5 {
+    color:#363958;
+    font-size: 20px;
+}
